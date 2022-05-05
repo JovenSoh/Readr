@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/readr/static/css/main.6dece982.css",
+    "main.js": "/readr/static/js/main.2eab2272.js",
+    "static/media/read.mp4": "/readr/static/media/read.b359c694c9714dbf3b15.mp4",
+    "index.html": "/readr/index.html",
+    "main.6dece982.css.map": "/readr/static/css/main.6dece982.css.map",
+    "main.2eab2272.js.map": "/readr/static/js/main.2eab2272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dece982.css",
+    "static/js/main.2eab2272.js"
+  ]
+}
